@@ -1,0 +1,1 @@
+# cubeai-wechat-notifier
